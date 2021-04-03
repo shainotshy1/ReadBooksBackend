@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github\\workflows",
     "\\tables"
   ],
-  "SelectedNode": "\\tables\\users.json",
+  "SelectedNode": "\\iisnode.yml",
   "PreviewInSolutionExplorer": false
 }
